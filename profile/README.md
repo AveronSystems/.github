@@ -1,4 +1,9 @@
 
+
+<div align="center">
+  <img src="Screenshot 2026-10-27 at 20.11.15.png" width="100" alt="Organization Logo">
+</div>
+
 # Averon Systems
 
 **AI Security | Agent Identity | Policy Enforcement | Adversarial Assurance**
